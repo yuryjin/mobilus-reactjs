@@ -1,0 +1,58 @@
+/*
+.selling-whole {
+  min-height: 82vh;
+}
+
+.jumbotron-selling {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./media/selling_jumbotron.jpg");
+  height: 30vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  padding-top: 15vh;
+  padding-bottom: 15vh;
+}
+*/
+
+.jumbotron-selling {
+  margin-bottom: 50px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+}
+
+.hero-image-desktop-version-selling {
+  height: 25rem;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./media/heroimage-selling-1600x500.jpg");
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+}
+
+.hero-image-mobile-version-selling {
+  height: 15rem;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./media/heroimage-selling-1200x800.jpg");
+}
+
+/*
+
+.selling-whole {
+  min-height: 82vh;
+}
+
+.jumbotron-selling {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./media/selling_jumbotron.jpg");
+  height: 30vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  padding-top: 15vh;
+  padding-bottom: 15vh;
+}
+
+*/

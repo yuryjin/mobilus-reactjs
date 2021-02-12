@@ -1,0 +1,71 @@
+.about-whole {
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./media/aboutus_jumbotron.jpg");
+}
+
+.jumbotron-about {
+  min-height: 80vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  padding-top: 15vh;
+  padding-bottom: 15vh;
+}
+
+.abouttext {
+  background-color: rgba(0, 0, 0, 0.3);
+  position: absolute;
+  left: 30%;
+  right: 5%;
+  top: 35%;
+}
+
+.textitself {
+  color: white;
+}
+
+.text-about-us-wrapper-inner {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.3);
+  position: absolute;
+  
+}
+
+.text-about-us-wrapper {
+  margin-top: 10rem;
+}
+
+/*
+
+.about-whole {
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./media/aboutus_jumbotron.jpg");
+}
+
+.jumbotron-about {
+  height: 80vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  padding-top: 15vh;
+  padding-bottom: 15vh;
+}
+
+.abouttext {
+  background-color: rgba(0, 0, 0, 0.3);
+  position: absolute;
+  left: 30%;
+  right: 5%;
+  top: 35%;
+}
+
+.textitself {
+  color: white;
+}
+
+
+*/
